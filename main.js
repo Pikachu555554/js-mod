@@ -9,4 +9,6 @@ elements.ultra_fire ={
    burnInto:"explosion",
    temp: 100000000000,
    category: "energy",
+   state: "gas",
+   density: 1
 }
