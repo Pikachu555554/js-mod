@@ -2,8 +2,8 @@ elements.ultra_fire ={
    color:"#3647df",
    behavior:[
         "XX|CHRfire|XX",
-        "CH:fire|XX|CH:fire",
-        "XX|DL|XX"
+        "XX|XX|XX",
+        "XX|DL|XX",
     ],
    burn:1000,
    burnInto:"explosion",
