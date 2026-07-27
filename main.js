@@ -1,15 +1,15 @@
 elements.ultra_fire ={
    color:"#3647df",
    behavior:[
-        "XX|CH:fire|XX",
+        "XX|CHRfire|XX",
         "CH:fire|XX|CH:fire",
-        "XX|DL:fire|XX"
+        "XX|DL|XX"
     ],
    burn:1000,
    burnInto:"explosion",
    temp: 100000000000,
    category: "energy",
    state: "gas",
-   density: 1,
+   density: -1,
    movable: true
 }
