@@ -1,7 +1,7 @@
 elements.ultra_fire ={
    color:"#3647df",
    behavior:[
-        "XX|CHR:fire|XX",
+        "XX|CR:fire|XX",
         "XX|XX|XX",
         "XX|DL|XX",
     ],
