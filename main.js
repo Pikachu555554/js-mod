@@ -6,7 +6,7 @@ elements.ultra_fire ={
         "XX|M1|XX",
     ],
    burn:10,
-   burnInto:"hbomb",
+   burnInto:"h_bomb",
    temp: 10000000000000000000,
    category: "energy",
    state: "gas",
